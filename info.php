@@ -1,6 +1,6 @@
 <?php
 
-echo "lets go now x x y";
+echo "lets go now x x y z";
 phpinfo();
 
 ?>
